@@ -97,15 +97,15 @@ Open with Live Server
 
 ### Home Page
 
-(Add screenshot here)
+![Home](images/home.png)
 
 ### AI Conversation
 
-(Add screenshot here)
+![Conversation](images/conversation.png)
 
 ### n8n Workflow
 
-(Add screenshot here)
+![Workflow](images/workflow.png)
 
 ---
 
