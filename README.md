@@ -1,6 +1,11 @@
 # 🤖 AI Search Agent
 
 An AI-powered Search Agent that answers user queries in real time using a responsive web interface and an n8n Cloud workflow. The application communicates with an AI model through webhooks and is deployed on Vercel.
+![HTML](https://img.shields.io/badge/HTML-5-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-3-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript)
+![n8n](https://img.shields.io/badge/n8n-Automation-red?style=for-the-badge)
+![Vercel](https://img.shields.io/badge/Vercel-Deployed-black?style=for-the-badge&logo=vercel)
 
 ---
 
